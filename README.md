@@ -2,13 +2,13 @@
 <h1 align="center">
     🚀 LeetCode 题解
 </h1>
-
 <p align="center">
-  <a href="https://github.com/liuyuhe666/leetcode"><img src="https://img.shields.io/badge/langs-Python%20%7C%20Java%20%7C%20C++%20%7C%20Go%20%7C%20TypeScript%20%7C%20Rust%20%7C%20...-red?style=flat-square&color=42b883" alt="languages"></a>
-  <a href="https://github.com/liuyuhe666/leetcode/blob/main/LICENSE"><img src="https://img.shields.io/github/license/liuyuhe666/leetcode?color=42b883&style=flat-square" alt="LICENSE"></a><br>
+    <a href="https://leetcode.cn"><img src="https://img.shields.io/badge/LeetCode-CN-42b883" alt="LeetCode"></a>
+  <a href="https://github.com/liuyuhe666/leetcode/blob/main/LICENSE"><img src="https://img.shields.io/github/license/liuyuhe666/leetcode?color=42b883&style=flat-square" alt="LICENSE"></a>
   <a href="https://github.com/liuyuhe666/leetcode/stargazers"><img src="https://img.shields.io/github/stars/liuyuhe666/leetcode?color=42b883&logo=github&style=flat-square" alt="stars"></a>
   <a href="https://github.com/liuyuhe666/leetcode/network/members"><img src="https://img.shields.io/github/forks/liuyuhe666/leetcode?color=42b883&logo=github&style=flat-square" alt="forks"></a>
 </p>
+
 
 
 
