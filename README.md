@@ -18,47 +18,33 @@
 
 - 👉🏻 有任何问题欢迎你给我提 [issue](https://github.com/liuyuhe666/leetcode/issues)
 
-## 模拟
+## [模拟](https://leetcode.cn/tag/simulation/problemset/)
+
+| 题目                                                         | 题解                           | 难度 |
+| ------------------------------------------------------------ | ------------------------------ | ---- |
+| [43. 字符串相乘 - 力扣（LeetCode）](https://leetcode.cn/problems/multiply-strings/description/) | [🔑🔑](./medium/LC-43/README.md) | 中等 |
 
 
 
-## 双指针
+## [滑动窗口](https://leetcode.cn/tag/sliding-window/problemset/)
 
+……
 
+## [双指针](https://leetcode.cn/tag/two-pointers/problemset/)
 
-## 滑动窗口
+……
 
+## [动态规划](https://leetcode.cn/tag/dynamic-programming/problemset/)
 
+……
 
-## 二分
+## [贪心](https://leetcode.cn/tag/greedy/problemset/)
 
+……
 
+## [回溯](https://leetcode.cn/tag/backtracking/problemset/)
 
-## 树的搜索
-
-
-
-## 回溯
-
-
-
-## 贪心
-
-
-
-## 图论
-
-
-
-## 动态规划
-
-
-
-## 数据结构
-
-
-
-## 区间求和
+……
 
 
 
