@@ -60,9 +60,11 @@
 
 ## [回溯](https://leetcode.cn/tag/backtracking/problemset/)
 
-| 题目                                                         | 题解                         | 难度 |
-| ------------------------------------------------------------ | ---------------------------- | ---- |
-| [257. 二叉树的所有路径 - 力扣（LeetCode）](https://leetcode.cn/problems/binary-tree-paths/description/) | [🔑](./easy/LC-257/README.md) | 简单 |
+| 题目                                                         | 题解                           | 难度 |
+| ------------------------------------------------------------ | ------------------------------ | ---- |
+| [257. 二叉树的所有路径 - 力扣（LeetCode）](https://leetcode.cn/problems/binary-tree-paths/description/) | [🔑](./easy/LC-257/README.md)   | 简单 |
+| [17. 电话号码的字母组合 - 力扣（LeetCode）](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/description/) | [🔑🔑](./medium/LC-17/README.md) | 中等 |
+| [46. 全排列 - 力扣（LeetCode）](https://leetcode.cn/problems/permutations/description/) | [🔑🔑](./medium/LC-46/README.md) | 中等 |
 
 
 
