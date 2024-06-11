@@ -23,6 +23,7 @@
 | 题目                                                         | 题解                           | 难度 |
 | ------------------------------------------------------------ | ------------------------------ | ---- |
 | [43. 字符串相乘 - 力扣（LeetCode）](https://leetcode.cn/problems/multiply-strings/description/) | [🔑🔑](./medium/LC-43/README.md) | 中等 |
+| [54. 螺旋矩阵 - 力扣（LeetCode）](https://leetcode.cn/problems/spiral-matrix/description/) | [🔑🔑](./medium/LC-54/README.md) | 中等 |
 
 
 
@@ -31,6 +32,8 @@
 | 题目                                                         | 题解                          | 难度 |
 | ------------------------------------------------------------ | ----------------------------- | ---- |
 | [3. 无重复字符的最长子串 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/) | [🔑🔑](./medium/LC-3/README.md) | 中等 |
+| [30. 串联所有单词的子串 - 力扣（LeetCode）](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/description/) | [🔑🔑🔑](./hard/LC-30/README.md) | 困难 |
+| [76. 最小覆盖子串 - 力扣（LeetCode）](https://leetcode.cn/problems/minimum-window-substring/description/) | [🔑🔑🔑](./hard/LC-76/README.md) | 困难 |
 
 
 
