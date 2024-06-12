@@ -47,9 +47,10 @@
 
 ## [动态规划](https://leetcode.cn/tag/dynamic-programming/problemset/)
 
-| 题目                                                         | 题解                        | 难度 |
-| ------------------------------------------------------------ | --------------------------- | ---- |
-| [70. 爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/climbing-stairs/description/) | [🔑](./easy/LC-70/README.md) | 简单 |
+| 题目                                                         | 题解                           | 难度 |
+| ------------------------------------------------------------ | ------------------------------ | ---- |
+| [70. 爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/climbing-stairs/description/) | [🔑](./easy/LC-70/README.md)    | 简单 |
+| [22. 括号生成 - 力扣（LeetCode）](https://leetcode.cn/problems/generate-parentheses/description/) | [🔑🔑](./medium/LC-22/README.md) | 中等 |
 
 
 
