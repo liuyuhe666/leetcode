@@ -20,13 +20,14 @@
 
 ## [模拟](https://leetcode.cn/tag/simulation/problemset/)
 
-| 题目                                                         | 题解                           | 难度 |
-| ------------------------------------------------------------ | ------------------------------ | ---- |
-| [43. 字符串相乘 - 力扣（LeetCode）](https://leetcode.cn/problems/multiply-strings/description/) | [🔑🔑](./medium/LC-43/README.md) | 中等 |
-| [54. 螺旋矩阵 - 力扣（LeetCode）](https://leetcode.cn/problems/spiral-matrix/description/) | [🔑🔑](./medium/LC-54/README.md) | 中等 |
-| [67. 二进制求和 - 力扣（LeetCode）](https://leetcode.cn/problems/add-binary/description/) | [🔑](./easy/LC-67/README.md)    | 简单 |
-| [59. 螺旋矩阵 II - 力扣（LeetCode）](https://leetcode.cn/problems/spiral-matrix-ii/description/) | [🔑🔑](./medium/LC-59/README.md) | 中等 |
-| [258. 各位相加 - 力扣（LeetCode）](https://leetcode.cn/problems/add-digits/description/) | [🔑](./easy/LC-258/README.md)   | 简单 |
+| 题目                                                         | 题解                            | 难度 |
+| ------------------------------------------------------------ | ------------------------------- | ---- |
+| [43. 字符串相乘 - 力扣（LeetCode）](https://leetcode.cn/problems/multiply-strings/description/) | [🔑🔑](./medium/LC-43/README.md)  | 中等 |
+| [54. 螺旋矩阵 - 力扣（LeetCode）](https://leetcode.cn/problems/spiral-matrix/description/) | [🔑🔑](./medium/LC-54/README.md)  | 中等 |
+| [67. 二进制求和 - 力扣（LeetCode）](https://leetcode.cn/problems/add-binary/description/) | [🔑](./easy/LC-67/README.md)     | 简单 |
+| [59. 螺旋矩阵 II - 力扣（LeetCode）](https://leetcode.cn/problems/spiral-matrix-ii/description/) | [🔑🔑](./medium/LC-59/README.md)  | 中等 |
+| [258. 各位相加 - 力扣（LeetCode）](https://leetcode.cn/problems/add-digits/description/) | [🔑](./easy/LC-258/README.md)    | 简单 |
+| [289. 生命游戏 - 力扣（LeetCode）](https://leetcode.cn/problems/game-of-life/description/) | [🔑🔑](./medium/LC-289/README.md) | 中等 |
 
 
 
