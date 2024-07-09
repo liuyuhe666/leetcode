@@ -60,9 +60,10 @@
 
 ## [贪心](https://leetcode.cn/tag/greedy/problemset/)
 
-| 题目                                                         | 题解                         | 难度 |
-| ------------------------------------------------------------ | ---------------------------- | ---- |
-| [409. 最长回文串 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-palindrome/) | [🔑](./easy/LC-409/README.md) | 简单 |
+| 题目                                                         | 题解                           | 难度 |
+| ------------------------------------------------------------ | ------------------------------ | ---- |
+| [409. 最长回文串 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-palindrome/) | [🔑](./easy/LC-409/README.md)   | 简单 |
+| [11. 盛最多水的容器 - 力扣（LeetCode）](https://leetcode.cn/problems/container-with-most-water/description/) | [🔑🔑](./medium/LC-11/README.md) | 中等 |
 
 
 
