@@ -46,6 +46,7 @@
 | 题目                                                         | 题解                          | 难度 |
 | ------------------------------------------------------------ | ----------------------------- | ---- |
 | [5. 最长回文子串 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-palindromic-substring/description/) | [🔑🔑](./medium/LC-5/README.md) | 中等 |
+| [26. 删除有序数组中的重复项 - 力扣（LeetCode）](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/description/) | [🔑](./easy/LC-26/README.md)   | 简单 |
 
 
 
