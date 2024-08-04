@@ -18,65 +18,7 @@
 
 - 👉🏻 有任何问题欢迎你给我提 [issue](https://github.com/liuyuhe666/leetcode/issues)
 
-## [模拟](https://leetcode.cn/tag/simulation/problemset/)
-
-| 题目                                                         | 题解                            | 难度 |
-| ------------------------------------------------------------ | ------------------------------- | ---- |
-| [43. 字符串相乘 - 力扣（LeetCode）](https://leetcode.cn/problems/multiply-strings/description/) | [🔑🔑](./medium/LC-43/README.md)  | 中等 |
-| [54. 螺旋矩阵 - 力扣（LeetCode）](https://leetcode.cn/problems/spiral-matrix/description/) | [🔑🔑](./medium/LC-54/README.md)  | 中等 |
-| [67. 二进制求和 - 力扣（LeetCode）](https://leetcode.cn/problems/add-binary/description/) | [🔑](./easy/LC-67/README.md)     | 简单 |
-| [59. 螺旋矩阵 II - 力扣（LeetCode）](https://leetcode.cn/problems/spiral-matrix-ii/description/) | [🔑🔑](./medium/LC-59/README.md)  | 中等 |
-| [258. 各位相加 - 力扣（LeetCode）](https://leetcode.cn/problems/add-digits/description/) | [🔑](./easy/LC-258/README.md)    | 简单 |
-| [289. 生命游戏 - 力扣（LeetCode）](https://leetcode.cn/problems/game-of-life/description/) | [🔑🔑](./medium/LC-289/README.md) | 中等 |
-
-
-
-## [滑动窗口](https://leetcode.cn/tag/sliding-window/problemset/)
-
-| 题目                                                         | 题解                          | 难度 |
-| ------------------------------------------------------------ | ----------------------------- | ---- |
-| [3. 无重复字符的最长子串 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-substring-without-repeating-characters/description/) | [🔑🔑](./medium/LC-3/README.md) | 中等 |
-| [30. 串联所有单词的子串 - 力扣（LeetCode）](https://leetcode.cn/problems/substring-with-concatenation-of-all-words/description/) | [🔑🔑🔑](./hard/LC-30/README.md) | 困难 |
-| [76. 最小覆盖子串 - 力扣（LeetCode）](https://leetcode.cn/problems/minimum-window-substring/description/) | [🔑🔑🔑](./hard/LC-76/README.md) | 困难 |
-
-
-
-## [双指针](https://leetcode.cn/tag/two-pointers/problemset/)
-
-| 题目                                                         | 题解                          | 难度 |
-| ------------------------------------------------------------ | ----------------------------- | ---- |
-| [5. 最长回文子串 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-palindromic-substring/description/) | [🔑🔑](./medium/LC-5/README.md) | 中等 |
-| [26. 删除有序数组中的重复项 - 力扣（LeetCode）](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/description/) | [🔑](./easy/LC-26/README.md)   | 简单 |
-
-
-
-## [动态规划](https://leetcode.cn/tag/dynamic-programming/problemset/)
-
-| 题目                                                         | 题解                           | 难度 |
-| ------------------------------------------------------------ | ------------------------------ | ---- |
-| [70. 爬楼梯 - 力扣（LeetCode）](https://leetcode.cn/problems/climbing-stairs/description/) | [🔑](./easy/LC-70/README.md)    | 简单 |
-| [22. 括号生成 - 力扣（LeetCode）](https://leetcode.cn/problems/generate-parentheses/description/) | [🔑🔑](./medium/LC-22/README.md) | 中等 |
-
-
-
-## [贪心](https://leetcode.cn/tag/greedy/problemset/)
-
-| 题目                                                         | 题解                           | 难度 |
-| ------------------------------------------------------------ | ------------------------------ | ---- |
-| [409. 最长回文串 - 力扣（LeetCode）](https://leetcode.cn/problems/longest-palindrome/) | [🔑](./easy/LC-409/README.md)   | 简单 |
-| [11. 盛最多水的容器 - 力扣（LeetCode）](https://leetcode.cn/problems/container-with-most-water/description/) | [🔑🔑](./medium/LC-11/README.md) | 中等 |
-
-
-
-## [回溯](https://leetcode.cn/tag/backtracking/problemset/)
-
-| 题目                                                         | 题解                           | 难度 |
-| ------------------------------------------------------------ | ------------------------------ | ---- |
-| [257. 二叉树的所有路径 - 力扣（LeetCode）](https://leetcode.cn/problems/binary-tree-paths/description/) | [🔑](./easy/LC-257/README.md)   | 简单 |
-| [17. 电话号码的字母组合 - 力扣（LeetCode）](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/description/) | [🔑🔑](./medium/LC-17/README.md) | 中等 |
-| [46. 全排列 - 力扣（LeetCode）](https://leetcode.cn/problems/permutations/description/) | [🔑🔑](./medium/LC-46/README.md) | 中等 |
-
-
+> TODO: 按照 Tag 对题目进行分类
 
 ## 参考资料
 
