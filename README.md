@@ -18,10 +18,25 @@
 
 - 👉🏻 有任何问题欢迎你给我提 [issue](https://github.com/liuyuhe666/leetcode/issues)
 
-> TODO: 按照 Tag 对题目进行分类
+## ☕ 在线阅读
 
-## 参考资料
+> ~~TODO: 按照 Tag 对题目进行分类~~
+
+
+点击[这里](https://thirsty-crab-490.notion.site/00044041f9284097b2f8e5c3e510f696)查阅 🤩
+
+## 🙌 许可证
+
+[GNU General Public License v3.0](https://github.com/liuyuhe666/leetcode/blob/main/LICENSE)
+
+商业转载请联系 [@liuyuhe666](https://github.com/liuyuhe666) 获得授权，非商业转载请注明出处。
+
+## 🎢 参考资料
+
+> 站在巨人的肩膀上
 
 - [https://github.com/SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode)
-- [https://github.com/liuyuhe666/leetcode](https://github.com/liuyuhe666/leetcode)
+- [https://doocs.github.io/leetcode](https://doocs.github.io/leetcode)
+- [https://www.programmercarl.com](https://www.programmercarl.com/)
 - [https://space.bilibili.com/9880352](https://space.bilibili.com/9880352)
+
