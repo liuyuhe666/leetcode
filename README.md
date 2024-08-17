@@ -1,4 +1,3 @@
-
 <h1 align="center">
     🚀 LeetCode 题解
 </h1>
@@ -9,19 +8,15 @@
   <a href="https://github.com/liuyuhe666/leetcode/network/members"><img src="https://img.shields.io/github/forks/liuyuhe666/leetcode?color=42b883&logo=github&style=flat-square" alt="forks"></a>
 </p>
 
+-   👋 本项目包含了 ⌈ LeetCode ⌋ 题目的相关题解
 
+-   🚀 正在全力更新中，欢迎 Star 🌟
 
-
-- 👋 本项目包含了 ⌈ LeetCode ⌋ 题目的相关题解
-
-- 🚀 正在全力更新中，欢迎 Star 🌟
-
-- 👉🏻 有任何问题欢迎你给我提 [issue](https://github.com/liuyuhe666/leetcode/issues)
+-   👉🏻 有任何问题欢迎你给我提 [issue](https://github.com/liuyuhe666/leetcode/issues)
 
 ## ☕ 在线阅读
 
 > ~~TODO: 按照 Tag 对题目进行分类~~
-
 
 点击[这里](https://thirsty-crab-490.notion.site/00044041f9284097b2f8e5c3e510f696)查阅 🤩
 
@@ -35,8 +30,7 @@
 
 > 站在巨人的肩膀上
 
-- [https://github.com/SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode)
-- [https://doocs.github.io/leetcode](https://doocs.github.io/leetcode)
-- [https://www.programmercarl.com](https://www.programmercarl.com/)
-- [https://space.bilibili.com/9880352](https://space.bilibili.com/9880352)
-
+-   [https://github.com/SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode)
+-   [https://doocs.github.io/leetcode](https://doocs.github.io/leetcode)
+-   [https://www.programmercarl.com](https://www.programmercarl.com/)
+-   [https://space.bilibili.com/9880352](https://space.bilibili.com/9880352)

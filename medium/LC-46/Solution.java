@@ -6,7 +6,8 @@ class Solution {
         return ans;
     }
 
-    public void backtracking(List<List<Integer>> ans, Set<Integer> vis, int[] nums, int index, List<Integer> temp) {
+    public void backtracking(
+        List<List<Integer>> ans, Set<Integer> vis, int[] nums, int index, List<Integer> temp) {
         if (index == nums.length) {
             ans.add(new ArrayList<>(temp));
         } else {

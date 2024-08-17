@@ -11,7 +11,8 @@ class Solution {
                             int r = i + dirs[x];
                             int c = j + dirs[y];
                             // 相邻位置的细胞是否存活
-                            if ((r < m && r >= 0) && (c < n && c >= 0) && (Math.abs(board[r][c]) == 1)) {
+                            if ((r < m && r >= 0) && (c < n && c >= 0)
+                                && (Math.abs(board[r][c]) == 1)) {
                                 ++cnt;
                             }
                         }
