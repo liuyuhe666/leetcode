@@ -2,10 +2,14 @@
     🚀 LeetCode 题解
 </h1>
 <p align="center">
-    <a href="https://leetcode.cn"><img src="https://img.shields.io/badge/LeetCode-CN-42b883" alt="LeetCode"></a>
-  <a href="https://github.com/liuyuhe666/leetcode/blob/main/LICENSE"><img src="https://img.shields.io/github/license/liuyuhe666/leetcode?color=42b883&style=flat-square" alt="LICENSE"></a>
+  <a href="https://github.com/liuyuhe666/leetcode"><img src="https://img.shields.io/github/languages/top/liuyuhe666/leetcode
+  " alt="top-language"></a>
+  <a href="https://github.com/liuyuhe666/leetcode/blob/main/LICENSE"><img src="https://img.shields.io/github/license/liuyuhe666/leetcode
+  " alt="LICENSE"></a>
   <a href="https://github.com/liuyuhe666/leetcode/stargazers"><img src="https://img.shields.io/github/stars/liuyuhe666/leetcode?color=42b883&logo=github&style=flat-square" alt="stars"></a>
-  <a href="https://github.com/liuyuhe666/leetcode/network/members"><img src="https://img.shields.io/github/forks/liuyuhe666/leetcode?color=42b883&logo=github&style=flat-square" alt="forks"></a>
+  <a href="https://github.com/liuyuhe666/leetcode"><img src="https://img.shields.io/github/repo-size/liuyuhe666/leetcode" alt="repo-size"></a>
+  <a href="https://github.com/liuyuhe666/leetcode"><img src="https://img.shields.io/github/commit-activity/w/liuyuhe666/leetcode/main
+  " alt="commit-activity"></a>
 </p>
 
 -   👋 本项目包含了 ⌈ LeetCode ⌋ 题目的相关题解
